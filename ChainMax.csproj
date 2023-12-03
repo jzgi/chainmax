@@ -18,4 +18,13 @@
       <PackageReference Include="DotNetCore.NPOI" Version="1.2.3" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Remove="C:\Users\hismi\.nuget\packages\dotnetcore.npoi\1.2.3\contentFiles\any\netstandard2.0\NOTICE.TXT" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="rtl_apiclient_cert.p12" />
+      <None Remove="sup_apiclient_cert.p12" />
+    </ItemGroup>
+
 </Project>

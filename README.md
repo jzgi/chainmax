@@ -1,1 +1,1 @@
-ChainSmart (品链供销) is a decentralized agricultural supply & market retail platform system. This is a master-nodal project.
+ChainMax (品链共享仓超) is a decentralized shared bulk supermarket platform system.
